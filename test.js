@@ -11,3 +11,5 @@ console.log(xls.app(sheets, 'curapps'))
 var name = 'Evan'
 
 console.log(xls.core(name))
+
+console.log(xls.workbook(sheets))
