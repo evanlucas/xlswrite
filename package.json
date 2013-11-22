@@ -1,0 +1,30 @@
+{
+  "name": "xlswrite",
+  "version": "0.0.1",
+  "description": "Utility to create xlsx files",
+  "main": "lib/index.js",
+  "dependencies": {
+    "npmlog": "~0.0.6",
+    "moment": "~2.4.0",
+    "xmlbuilder": "~0.4.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evanlucas/xlswrite.git"
+  },
+  "keywords": [
+    "xls",
+    "xlsx",
+    "spreadsheet"
+  ],
+  "author": "Evan Lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanlucas/xlswrite/issues"
+  },
+  "homepage": "https://github.com/evanlucas/xlswrite"
+}
